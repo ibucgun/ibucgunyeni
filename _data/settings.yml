@@ -49,7 +49,7 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Uzm. Dr. İsmail Buçgün
+  hero__title: Uzm. Dr. İsmail Buçgün | Adana Psikiyatri ve TMS Kliniği
   hero__description: Adana'daki psikiyatri kliniğimizde <b>depresyon ve bipolar bozukluk gibi duygudurum bozuklukları</b> ve <b>beyin uyarım tedavileri</b> başta olmak üzere psikiyatri ve klinik psikolojinin pek çok alanında <b>uzman ekibimizle, bilimsel kanıta dayalı, modern tanı ve tedavi yöntemleri ile</b> hizmet veriyoruz. 
   hero__image: "/images/01-1.jpg"
 
