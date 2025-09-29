@@ -28,7 +28,7 @@ collections:
   works:
     output: true
     permalink: /calisma-alani/:slug
-  ekip:
+  egitim:
     output: true
     permalink: /egitim/:slug
 
