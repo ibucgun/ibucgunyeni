@@ -105,8 +105,8 @@ work:
 # Egitim Settings
 egitim:
   enable: true
-  ekip__title: Aldığım Eğitimler
-  ekip__description: Erişkin psikiyatristi ve klinik psikologtan oluşan alanında uzman ekibimizle hizmet veriyoruz.
+  egitim__title: Aldığım Eğitimler
+  egitim__description: Erişkin psikiyatristi ve klinik psikologtan oluşan alanında uzman ekibimizle hizmet veriyoruz.
 
 
 #-------------------------------
