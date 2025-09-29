@@ -27,7 +27,7 @@ collections:
     permalink: /blog/:slug
   works:
     output: true
-    permalink: /hizmet/:slug
+    permalink: /calismaalani/:slug
   ekip:
     output: true
     permalink: /ekip/:slug
