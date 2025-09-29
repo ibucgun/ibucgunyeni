@@ -15,7 +15,7 @@ menu__settings:
     - title: 'Hakkımda'
       url: '/hakkimda/'
     - title: 'Çalışma Alanları'
-      url: '/calismaalani/'
+      url: '/calisma-alani/'
     - title: 'Blog'
       url: '/blog/'
     - title: 'Klinik'
@@ -98,7 +98,7 @@ mailchimp:
 # Work Settings
 work:
   enable: true
-  work__title: Hizmetler
+  work__title: Çalışma Alanları
   work__description: Kliniğimizde bilimsel kanıta dayalı, modern ve güncel tanı ve tedavi yaklaşımlarını kullanıyoruz.
 
 #-------------------------------
