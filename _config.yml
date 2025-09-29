@@ -30,7 +30,7 @@ collections:
     permalink: /calisma-alani/:slug
   ekip:
     output: true
-    permalink: /ekip/:slug
+    permalink: /egitim/:slug
 
 # Pages Path
 defaults:
