@@ -55,9 +55,9 @@ defaults:
       layout: "work"
   - scope:
       path: ""
-      type: "ekip"
+      type: "egitim"
     values:
-      layout: "ekip"
+      layout: "egitim"
 
 sass:
   sass_dir: _sass
