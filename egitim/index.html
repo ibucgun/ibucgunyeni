@@ -6,30 +6,30 @@ description: Adana psikiyatri kliniğimizde; <b>erişkin psikiyatristi ve klinik
 
 <div class="container">
   <div class="page-section-head">
-    <h1 class="page-title">{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.ekip.ekip__title }}{% endif %}</h1>
+    <h1 class="page-title">{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.egitim.egitim__title }}{% endif %}</h1>
     {% if page.description %}
       <p class="page-description">{{ page.description }}</p>
-    {% else site.data.settings.ekip.ekip__description %}
-      <p class="page-description">{{ site.data.settings.ekip.ekip__description }}</p>
+    {% else site.data.settings.egitim.egitim__description %}
+      <p class="page-description">{{ site.data.settings.egitim.egitim__description }}</p>
     {% endif %}
   </div>
 </div>
 
 <div class="work-page container animate">
   <div class="row">
-    {% for ekip in site.ekip reversed %}
+    {% for egitim in site.egitim reversed %}
       <article class="work col col-4 col-d-6 col-t-12">
         <div class="work__content">
-          <a href="{{ ekip.url | relative_url }}" class="work__image">
-            <img class="lazy" data-src="{{ ekip.image | relative_url }}" alt="{{ ekip.title }}">
+          <a href="{{ egitim.url | relative_url }}" class="work__image">
+            <img class="lazy" data-src="{{ egitim.image | relative_url }}" alt="{{ egitim.title }}">
           </a>
           <div class="work__info">
-            {% if ekip.category %}
-            <div class="work__category">{{ ekip.category }}</div>
+            {% if egitim.category %}
+            <div class="work__category">{{ egitim.category }}</div>
             {% endif %}
-            <h3 class="work__title"><a href="{{ ekip.url | relative_url }}">{{ ekip.title }}</a></h3>
-            {% if ekip.description %}
-            <p class="work__description">{{ ekip.description }}</p>
+            <h3 class="work__title"><a href="{{ egitim.url | relative_url }}">{{ egitim.title }}</a></h3>
+            {% if egitim.description %}
+            <p class="work__description">{{ egitim.description }}</p>
             {% endif %}
           </div>
         </div>
