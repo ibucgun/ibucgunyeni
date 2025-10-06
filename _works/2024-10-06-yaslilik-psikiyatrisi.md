@@ -1,5 +1,5 @@
 ---
-title: Psikiyatrik Değerlendirme
+title: Yaşlılık Psikiyatrisi
 description: Psikiyatri uzmanının kişinin ruhsal durumunu anlamak için yaptığı kapsamlı inceleme sürecidir.
 category: Tanısal Değerlendirme
 date: 2025-10-06 08:00:00 +0300

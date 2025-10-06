@@ -1,5 +1,5 @@
 ---
-title: TMS (Transkraniyal Manyetik Stimulasyon)
+title: Beyin Uyarım Tedavileri
 description: <b>Tedaviye dirençli depresyon tedavisinde etkili ve FDA onaylı</b>, psikiyatride kullanımı giderek artan, modern, bir beyin uyarım ve beyin aktivitesi düzenleme (nöromodülasyon) tedavisidir.
 category: Beyin Uyarım Tedavisi
 date: 2025-10-06 08:00:00 +0300ß
