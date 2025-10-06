@@ -1,8 +1,8 @@
 ---
-title: Derin TMS (Transkraniyal Manyetik Stimulasyon)
+title: Diğer Duygudurum Bozuklukları
 description: <b>Tedaviye dirençli OKB ve depresyon tedavisinde etkili ve FDA onaylı</b>, bağımlılık ve başka endikasyonlarda da kullanımı giderek artan, modern, bir beyin uyarım ve beyin aktivitesi düzenleme (nöromodülasyon) tedavisidir.
-category: Beyin Uyarım Tedavisi
-date: 2025-04-07 08:00:00 +0300ß
+category: Duygudurum Bozuklukları
+date: 2025-10-06 08:00:00 +0300ß
 role: Uzm. Dr. İsmail BUÇGÜN
 client: 
 image: '/images/hizmet-tms.jpg'
