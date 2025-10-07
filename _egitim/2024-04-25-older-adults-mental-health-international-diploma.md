@@ -1,6 +1,6 @@
 ---
 title: Older Adults' Mental Health International Diploma
-decription: 2015'te tıp doktoru, 2020'de psikiyatri uzmanı olmuştur. 2025'te Avrupa Psikiyatri Birliği board sınavını geçerek <b>Avrupa çapında kabul gören bir yeterlilik derecesi anlamına gelen 'Fellow of the European Board of Psychiatry (FEBP)'</b> ünvanı almıştır.
+description: 2015'te tıp doktoru, 2020'de psikiyatri uzmanı olmuştur. 2025'te Avrupa Psikiyatri Birliği board sınavını geçerek <b>Avrupa çapında kabul gören bir yeterlilik derecesi anlamına gelen 'Fellow of the European Board of Psychiatry (FEBP)'</b> ünvanı almıştır.
 category: Psikiyatri Uzmanı
 egitim-baslangici:
 egitim-bitisi:
