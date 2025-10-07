@@ -1,11 +1,14 @@
 ---
-title: Kln. Psk. Aleyna SULTANOĞLU
-description: 2020'de psikoloji lisans, 2024'te klinik psikoloji yüksek lisans eğitimlerini tamamladı. Bilişsel davranışçı psikoterapi başta olmak üzere bireysel psikoterapi konusunda uzmanlaşmıştır.
-category: Uzman Psikolog
+title: Older Adults' Mental Health International Diploma
+decription: 2015'te tıp doktoru, 2020'de psikiyatri uzmanı olmuştur. 2025'te Avrupa Psikiyatri Birliği board sınavını geçerek <b>Avrupa çapında kabul gören bir yeterlilik derecesi anlamına gelen 'Fellow of the European Board of Psychiatry (FEBP)'</b> ünvanı almıştır.
+category: Psikiyatri Uzmanı
+egitim-baslangici:
+egitim-bitisi:
+egitim-veren-kurum:
 date: 2025-04-25 08:00:00 +0300
-client: Klinik Psikolog, Bireysel Psikoterapi, Psikoeğitim
-role: Anksiyete Bozuklukları, Obsesif Kompulsif Bozukluk, Depresyon
-image: '/images/pskaleyna-profil.jpg'
+client: Klinik Kurucusu, Psikiyatri Uzmanı, Tanı ve Tedavi Süreçlerinin Yönetimi
+role: Duygudurum Bozuklukları, Yaşlılık Psikiyatrisi, Psikotik Bozukluklar, Nöropsikiyatri
+image: '/images/drismail-profil.jpg'
 ---
 
 ## Akademik Eğitim
