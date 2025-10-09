@@ -74,8 +74,8 @@ logo__items:
     image: "/images/pinterest.svg"
 
   - name: Academy of Brain Stimulation
-    link: "https://www.netlify.com/"
-    image: "/images/netlify.svg"
+    link: "https:/brainstimulation-academy.com/"
+    image: "/images/brainstimulationacademylogo.png"
 
   - name: Apple
     link: "https://www.apple.com/"
@@ -99,14 +99,14 @@ mailchimp:
 work:
   enable: true
   work__title: Çalışma Alanları
-  work__description: Kliniğimizde bilimsel kanıta dayalı, modern ve güncel tanı ve tedavi yaklaşımlarını kullanıyoruz.
+  work__description: Tüm psikiyatrik hastalıkların tanı ve tedavisini kapsayan bir hizmet sunmakla birlikte, özellikle bipolar bozukluk, depresyon gibi duygudurum bozuklukları, yaşlılık psikiyatrisi, psikotik bozukluklar ve beyin uyarım tedavileri alanında çalışıyorum.
 
 #-------------------------------
 # Egitim Settings
 egitim:
   enable: true
   egitim__title: Aldığım Eğitimler
-  egitim__description: Mesleki yetkinliklerimi arttırmak ve çalışma alanlarımda derinlemesine bilgi sahibi olmak adına pek çok yapılandırılmış eğitime katıldım.
+  egitim__description: Mesleki yetkinliklerimi arttırmak ve çalışma alanlarımda kanıta dayalı uygulamalar ile ilgili derinlemesine bilgi sahibi olmak adına pek çok yapılandırılmış eğitime katıldım ve halen bazı eğitimlere devam ediyorum.
 
 
 #-------------------------------
