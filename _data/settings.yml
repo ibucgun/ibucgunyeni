@@ -99,7 +99,7 @@ mailchimp:
 work:
   enable: true
   work__title: Çalışma Alanları
-  work__description: Pek çok psikiyatrik sorunda tanı ve tedavi hizmeti sunmakla birlikte, öncelikli alanlarım duygudurum bozuklukları, yaşlılık psikiyatrisi ve beyin uyarım tedavileridir (TMS ve Derin TMS).
+  work__description: Pek çok psikiyatrik sorunda tanı ve tedavi hizmeti sunmakla birlikte, öncelikli alanlarım <b>duygudurum bozuklukları</b>, <b>yaşlılık psikiyatrisi</b> ve <b>beyin uyarım tedavileridir.</b>
 
 #-------------------------------
 # Egitim Settings
