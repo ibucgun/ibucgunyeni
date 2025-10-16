@@ -72,6 +72,7 @@
     -webkit-box-orient: vertical;
     color: var(--text-alt-color);
   }
+  
 
   @media (max-width: $desktop) {
     .work__title {
@@ -85,5 +86,15 @@
     .work__category {
       font-size: 14px;
     }
+  }
+
+  .egitim__description {
+    display: -webkit-box;
+    margin-top: 20px;
+    margin-bottom: 0;
+    font-size: 18px;
+    overflow-y: hidden;
+    -webkit-box-orient: vertical;
+    color: var(--text-alt-color);
   }
 }
