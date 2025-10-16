@@ -99,7 +99,7 @@ mailchimp:
 work:
   enable: true
   work__title: Çalışma Alanları
-  work__description: Tüm psikiyatrik hastalıkların tanı ve tedavisini kapsayan bir hizmet sunmakla birlikte, özellikle bipolar bozukluk, depresyon gibi duygudurum bozuklukları, yaşlılık psikiyatrisi, psikotik bozukluklar ve beyin uyarım tedavileri alanında çalışıyorum.
+  work__description: Pek çok psikiyatrik sorunda tanı ve tedavi hizmeti sunmakla birlikte, öncelikli alanlarım duygudurum bozuklukları, yaşlılık psikiyatrisi ve beyin uyarım tedavileridir (TMS ve Derin TMS).
 
 #-------------------------------
 # Egitim Settings
