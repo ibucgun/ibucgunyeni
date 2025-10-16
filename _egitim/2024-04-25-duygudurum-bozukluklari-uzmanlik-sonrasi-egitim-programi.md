@@ -2,8 +2,7 @@
 title: Duygudurum Bozuklukları Uzmanlık Sonrası Eğitim Programı (DUSEP)
 description: 2015'te tıp doktoru, 2020'de psikiyatri uzmanı olmuştur. 2025'te Avrupa Psikiyatri Birliği board sınavını geçerek <b>Avrupa çapında kabul gören bir yeterlilik derecesi anlamına gelen 'Fellow of the European Board of Psychiatry (FEBP)'</b> ünvanı almıştır.
 kurum: Bipolar Bozukluklar Derneği
-baslangic:
-bitis:
+sure: Mayıs 2021 - Haziran 2023
 date: 2025-04-25 08:00:00 +0300
 client: Klinik Kurucusu, Psikiyatri Uzmanı, Tanı ve Tedavi Süreçlerinin Yönetimi
 role: Duygudurum Bozuklukları, Yaşlılık Psikiyatrisi, Psikotik Bozukluklar, Nöropsikiyatri
