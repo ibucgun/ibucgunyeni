@@ -26,7 +26,7 @@
                 <div class="work__category">{{ egitim.kurum }} • {% if egitim.sure %}{{ egitim.sure }}{% endif %} </div>
                 {% endif %}
                 <h3 class="work__title">
-                  <a href="{{ egitim.url | relative_url }}">{{ egitim.title }}</a>
+                {{ egitim.title }}
                 </h3>
                 {% if egitim.description %}
                 <p class="egitim__description">{{ egitim.description }}</p>
