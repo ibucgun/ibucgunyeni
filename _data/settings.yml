@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
-title: Uzm. Dr. İsmail Buçgün
+title: Uzm. Dr. İsmail BUÇGÜN | Adana Psikiyatri ve TMS Kliniği
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Adana psikiyatri kliniği MoodStim, duygudurum bozuklukları ve TMS tedavisi başta olmak üzere psikiyatrinin pek çok alanında modern hizmetler sunar.
+description: Uzm. Dr. İsmail Buçgün, Avrupa yeterlilik belgeli bir uzman olarak Adana psikiyatri kliniğinde modern, kişiye özel ve kanıta dayalı tedaviler sunar.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -49,8 +49,8 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Uzm. Dr. İsmail BUÇGÜN • Adana Psikiyatri ve TMS Kliniği
-  hero__description: Adana'daki psikiyatri kliniğimizde <b>depresyon ve bipolar bozukluk gibi duygudurum bozuklukları</b> ve <b>beyin uyarım tedavileri</b> başta olmak üzere psikiyatri ve klinik psikolojinin pek çok alanında <b>uzman ekibimizle, bilimsel kanıta dayalı, modern tanı ve tedavi yöntemleri ile</b> hizmet veriyoruz. 
+  hero__title: Uzm. Dr. İsmail BUÇGÜN • Adana Psikiyatri Kliniği
+  hero__description: Avrupa yeterlilik belgeli bir psikiyatri uzmanı olarak Adana'daki özel kliniğimde <b>modern, kişiye özel ve kanıta dayalı</b> tanı ve tedavi hizmeti sunuyorum.
   hero__image: "/images/01-1.jpg"
 
 
