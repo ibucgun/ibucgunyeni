@@ -1,44 +1,45 @@
 {% if site.data.settings.egitim.enable == true %}
-<!-- begin works -->
+<!-- begin egitimler -->
 <div class="container">
-  <section class="section works animate">
-    <div class="row">
+  <section class="section works animate">
+    <div class="row">
 
-      <div class="col col-4 col-d-12">
-        <div class="section__info">
-          <h2 class="section__title">{{ site.data.settings.egitim.egitim__title }}</h2>
-          {% if site.data.settings.egitim.egitim__description %}
-          <p class="section__description">{{ site.data.settings.egitim.egitim__description }}</p>
-          {% endif %}
-        </div>
-      </div>
+      <!-- Başlık ve açıklama -->
+      <div class="col col-12">
+        <div class="section__info">
+          <h2 class="section__title">{{ site.data.settings.egitim.egitim__title }}</h2>
+          {% if site.data.settings.egitim.egitim__description %}
+          <p class="section__description">{{ site.data.settings.egitim.egitim__description }}</p>
+          {% endif %}
+        </div>
+      </div>
 
-      <div class="col col-8 col-d-12">
-        <div class="row">
-          {% assign sorted = site.egitim | sort: 'date' | reverse %}
-          {% for egitim in sorted limit:4 %}
-          <article class="work col col-6 col-d-12">
-            <div class="work__content">
-              <a href="{{ egitim.url | relative_url}}" class="work__image">
-                <img class="lazy" data-src="{{ egitim.image | relative_url}}" alt="{{ egitim.title }}">
-              </a>
-              <div class="work__info">
-                {% if egitim.category %}
-                <div class="work__category">{{ egitim.category }}</div>
-                {% endif %}
-                <h3 class="work__title"><a href="{{ egitim.url | relative_url}}">{{ egitim.title }}</a></h3>
-                {% if egitim.description %}
-                <p class="work__description">{{ egitim.description }}</p>
-                {% endif %}
-              </div>
-            </div>
-          </article>
-          {% endfor %}
-        </div>
-      </div>
+      <!-- Eğitim listesi -->
+      <div class="col col-12">
+        <div class="row">
+          {% assign sorted = site.egitim | sort: 'date' | reverse %}
+          {% for egitim in sorted %}
+          <article class="work col col-6 col-d-12">
+            <div class="work__content">
+              <div class="work__info">
+                <h3 class="work__title">
+                {{ egitim.title }}
+                </h3>
+                {% if egitim.kurum %}
+                <div class="work__category">{{ egitim.kurum }} • {% if egitim.sure %}{{ egitim.sure }}{% endif %} </div>
+                {% endif %}
+                {% if egitim.description %}
+                <p class="egitim__description">{{ egitim.description }}</p>
+                {% endif %}
+              </div>
+            </div>
+          </article>
+          {% endfor %}
+        </div>
+      </div>
 
-    </div>
-  </section>
+    </div>
+  </section>
 </div>
-<!-- end works -->
+<!-- end egitimler -->
 {% endif %}
