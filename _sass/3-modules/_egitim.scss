@@ -87,3 +87,39 @@
     }
   }
 }
+
+/* Timeline Dikey Çizgisi */
+.education-timeline {
+  position: relative;
+  padding-left: 30px; /* Çizgi için yer açıyoruz */
+  margin-left: 10px;
+}
+
+.education-timeline::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 10px;
+  bottom: 10px;
+  width: 2px;
+  background-color: #e2e8f0; /* Çizgi rengi */
+}
+
+/* Timeline Noktası */
+.education-item {
+  position: relative;
+  margin-bottom: 30px;
+}
+
+.education-item::before {
+  content: '';
+  position: absolute;
+  left: -35px; /* Çizginin üzerine tam ortalıyoruz */
+  top: 5px;
+  width: 12px;
+  height: 12px;
+  background-color: #fff;
+  border: 3px solid #3b82f6; /* Nokta rengi */
+  border-radius: 50%;
+  z-index: 1;
+}
