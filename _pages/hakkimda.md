@@ -3,6 +3,11 @@ layout: work
 title: Hakkımda
 description: Adana psikiyatri kliniğimizden psikiyatri ve klinik psikoloji alanında destek almak için klinik iletişim numarasını arayabilir ya da Whatsapp mesajı gönderebilirsiniz.
 permalink: /hakkimda/
+category: Beyin Uyarım Tedavisi
+date: 2025-10-06 08:00:00 +0300ß
+role: Uzm. Dr. İsmail BUÇGÜN
+client: 
+image: '/images/hizmet-tms.jpg'
 ---
 ## Randevu Hakkında Genel Bilgiler
 Mevcut hasta yoğunluğu ve yakın takip/sık görüşme gerekebilen hasta sayımızın çokluğu nedeniyle <b>kliniğimizde online randevu sistemi kullanılmamaktadır.</b> Yalnızca telefonla arayarak ya da Whatsapp mesajı göndererek bilgi ve randevu alabilirsiniz.
