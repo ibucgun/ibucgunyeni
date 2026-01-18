@@ -50,7 +50,7 @@ social:
 hero:
   enable: true
   hero__title: Uzm. Dr. İsmail BUÇGÜN
-  hero__alttitle: Psikiyatri Uzmanı | Fellow of The European Board of Psychiatry
+  hero__alttitle: Psikiyatri Uzmanı • Fellow of The European Board of Psychiatry
   hero__description: Avrupa yeterlilik belgeli bir psikiyatri uzmanı olarak Adana'daki özel kliniğimde <b>modern, kişiye özel ve kanıta dayalı</b> tanı ve tedavi hizmeti sunuyorum.
   hero__image: "/images/01-1.jpg"
 

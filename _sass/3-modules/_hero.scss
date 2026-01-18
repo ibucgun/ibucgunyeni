@@ -47,16 +47,16 @@
 
 .hero__alttitle {
   margin-bottom: 10px;
-  font-size: 36px;
+  font-size: 30px;
   font-weight: 400;
   color: var(--heading-font-color);
 
   @media (max-width: $wide) {
-    font-size: 24px;
+    font-size: 20px;
   }
 
   @media (max-width: $mobile) {
-    font-size: 18px;
+    font-size: 16px;
   }
 }
 
