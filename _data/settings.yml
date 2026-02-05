@@ -3,7 +3,7 @@
 title: Uzm. Dr. İsmail BUÇGÜN
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Uzm. Dr. İsmail Buçgün, Avrupa yeterlilik belgeli bir uzman olarak Adana psikiyatri kliniğinde modern, kişiye özel ve kanıta dayalı tedaviler sunar.
-color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
 #-------------------------------
@@ -51,7 +51,7 @@ hero:
   enable: true
   hero__title: Uzm. Dr. İsmail BUÇGÜN
   hero__alttitle: Psikiyatri Uzmanı • Fellow of The European Board of Psychiatry
-  hero__description: Avrupa yeterlilik belgeli bir psikiyatri uzmanı olarak Adana'daki özel kliniğimde <b>modern, kişiye özel ve kanıta dayalı</b> tanı ve tedavi hizmeti sunuyorum.
+  hero__description: Avrupa yeterlilik belgeli bir uzman olarak Adana'daki özel psikiyatri kliniğimde <b>modern, kişiye özel ve kanıta dayalı</b> tanı ve tedavi hizmeti sunuyorum.
   hero__image: "/images/01-1.jpg"
 
 
@@ -63,28 +63,21 @@ logos:
 
 logo__items:
   - name: Türkiye Psikiyatri Derneği
-    link: "https://www.google.com/"
-    image: "/images/google.svg"
+    link: "https://www.psikiyatri.org.tr/"
+    image: "/images/tpd.svg"
 
   - name: Uluslararası Bipolar Bozukluklar Derneği (ISBD)
-    link: "https://www.spotify.com/"
-    image: "/images/spotify.svg"
+    link: "https://www.isbd.org/"
+    image: "/images/isbd.svg"
 
   - name: Bipolar Bozukluklar Derneği
-    link: "https://www.pinterest.com/"
-    image: "/images/pinterest.svg"
+    link: "https://www.bipolarturkiye.org/"
+    image: "/images/bipolarturkiye.svg"
 
   - name: Academy of Brain Stimulation
     link: "https:/brainstimulation-academy.com/"
-    image: "/images/brainstimulationacademylogo.png"
+    image: "/images/brainstimulationacademylogo.svg"
 
-  - name: Apple
-    link: "https://www.apple.com/"
-    image: "/images/apple.svg"
-
-  - name: Adobe
-    link: "https://www.adobe.com/"
-    image: "/images/adobe.svg"
 
 #-------------------------------
 # Newsletter
