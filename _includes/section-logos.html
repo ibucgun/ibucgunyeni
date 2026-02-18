@@ -14,6 +14,7 @@
           <li class="logos__item">
             <a href="{{ logo.link | relative_url}}" class="logos__link" title="{{ logo.name }}" target="_blank" rel="noopener">
               <img src="{{ logo.image | relative_url }}" alt="{{ logo.name }}" class="logos__image">
+              <span class="logos__name">{{ logo.name }}</span>
             </a>
           </li>
           {% endfor %}
