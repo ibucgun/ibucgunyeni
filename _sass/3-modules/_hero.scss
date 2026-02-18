@@ -31,13 +31,13 @@
 }
 
 .hero__title {
-  margin-bottom: 10px;
+  margin-bottom: 8px;
   font-size: 46px;
   font-weight: 800;
   color: var(--heading-font-color);
 
   @media (max-width: $wide) {
-    font-size: 42px;
+    font-size: 40px;
   }
 
   @media (max-width: $mobile) {
