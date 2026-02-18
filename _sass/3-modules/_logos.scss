@@ -6,38 +6,46 @@
 
 .logos__list {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;     // space-between yerine daha düzgün
   align-items: center;
   flex-wrap: wrap;
-  margin: -$base-spacing-unit;
+  gap: $base-spacing-unit;
+  margin: 0;
 }
 
 .logos__item {
-  padding: $base-spacing-unit;
+  padding: 0;
   margin-bottom: 0;
 }
 
 .logos__link {
-  display: inline-flex;              // was: block
+  display: inline-flex;
   align-items: center;
-  gap: 10px;                         // new
+  gap: 10px;
+
+  padding: 10px 12px;
+  border: 1px solid var(--border-color);
+  border-radius: $global-radius;
+
   transition: all .2s ease;
   text-decoration: none;
 
   &:hover {
-    transform: scale(1.03);          // was: 1.1 (text varken daha zarif)
-    opacity: 0.9;                    // was: 0.8
+    transform: translateY(-1px);
+    border-color: var(--border-alt-color);
+    opacity: 0.95;
   }
 }
 
 .logos__image {
-  height: 22px;                      // was: 72px
+  height: 20px;
   width: auto;
   flex: 0 0 auto;
+
   filter: invert(51%) sepia(4%) saturate(1703%) hue-rotate(179deg) brightness(85%) contrast(89%);
 
   @media (max-width: $mobile) {
-    height: 18px;                    // was: 32px
+    height: 18px;
   }
 }
 
@@ -46,7 +54,7 @@
   font-weight: 700;
   line-height: 1.2;
   letter-spacing: -0.01em;
-  color: var(--text-color);          // tema değişkenini kullanır
+  color: var(--text-color);
   opacity: 0.85;
 
   @media (max-width: $mobile) {
@@ -54,12 +62,14 @@
   }
 }
 
+@media (max-width: $mobile) {
+  .logos__list {
+    justify-content: center;
+  }
+}
+
 .dark-mode {
   .logos__image {
     filter: invert(100%) sepia(32%) saturate(304%) hue-rotate(200deg) brightness(115%) contrast(88%);
-  }
-
-  .logos__name {
-    opacity: 0.9;
   }
 }
