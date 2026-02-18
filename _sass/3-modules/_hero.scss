@@ -31,7 +31,7 @@
 }
 
 .hero__title {
-  margin-bottom: 8px;
+  margin-bottom: 6px;
   font-size: 46px;
   font-weight: 800;
   color: var(--heading-font-color);
@@ -48,7 +48,7 @@
 .hero__alttitle {
   margin-bottom: 10px;
   font-size: 28px;
-  font-weight: 400;
+  font-weight: 500;
   color: var(--heading-font-color);
 
   @media (max-width: $wide) {
