@@ -6,41 +6,39 @@
 
 .logos__list {
   display: flex;
-  justify-content: flex-start;          // was: space-between
+  justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
-  gap: $base-spacing-unit;              // NEW: kontrollü boşluk
-  margin: 0;                            // was: -$base-spacing-unit
+  margin: -$base-spacing-unit;
 }
 
 .logos__item {
-  padding: 0;                           // badge padding'i linke taşıyoruz
+  padding: $base-spacing-unit;
   margin-bottom: 0;
 }
 
 .logos__link {
-  display: inline-flex;
+  display: inline-flex;              // was: block
   align-items: center;
-  gap: 10px;
-  padding: 10px 12px;                   // NEW: badge iç boşluk
-  border: 1px solid $border-color;      // NEW
-  border-radius: $global-radius;        // NEW
+  gap: 10px;                         // new
   transition: all .2s ease;
   text-decoration: none;
-  background: transparent;              // temaya uyumlu, büyük değişiklik yok
 
   &:hover {
-    transform: translateY(-1px);        // scale yerine daha zarif
-    border-color: darken($border-color, 8%);
-    opacity: 0.95;
+    transform: scale(1.03);          // was: 1.1 (text varken daha zarif)
+    opacity: 0.9;                    // was: 0.8
   }
 }
 
 .logos__image {
-  height: 20px;                         // minik logo
+  height: 22px;                      // was: 72px
   width: auto;
   flex: 0 0 auto;
   filter: invert(51%) sepia(4%) saturate(1703%) hue-rotate(179deg) brightness(85%) contrast(89%);
+
+  @media (max-width: $mobile) {
+    height: 18px;                    // was: 32px
+  }
 }
 
 .logos__name {
@@ -48,25 +46,10 @@
   font-weight: 700;
   line-height: 1.2;
   letter-spacing: -0.01em;
-  color: var(--text-color);
+  color: var(--text-color);          // tema değişkenini kullanır
   opacity: 0.85;
-}
 
-@media (max-width: $mobile) {
-  .logos__list {
-    justify-content: center;            // mobilde daha dengeli durur
-  }
-
-  .logos__link {
-    padding: 9px 10px;
-    gap: 8px;
-  }
-
-  .logos__image {
-    height: 18px;
-  }
-
-  .logos__name {
+  @media (max-width: $mobile) {
     font-size: 12px;
   }
 }
@@ -76,7 +59,7 @@
     filter: invert(100%) sepia(32%) saturate(304%) hue-rotate(200deg) brightness(115%) contrast(88%);
   }
 
-  .logos__link {
-    border-color: rgba(255,255,255,0.16); // dark mode'da border daha nazik
+  .logos__name {
+    opacity: 0.9;
   }
 }
