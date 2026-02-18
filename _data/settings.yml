@@ -51,7 +51,7 @@ hero:
   enable: true
   hero__title: Uzm. Dr. İsmail BUÇGÜN
   hero__alttitle: Psikiyatri Uzmanı • Fellow of The European Board of Psychiatry
-  hero__description: Avrupa yeterlilik belgeli bir uzman olarak Adana'daki özel psikiyatri kliniğimde <b>modern, kişiye özel ve kanıta dayalı</b> tanı ve tedavi hizmeti sunuyorum.
+  hero__description: Avrupa yeterlilik belgeli bir uzman olarak Adana'daki psikiyatri kliniğimde, erişkin ve yaşlılara<b>modern, kişiye özel ve bilimsel kanıta dayalı</b> tanı ve tedavi hizmeti sunuyorum.
   hero__image: "/images/01-1.jpg"
 
 
@@ -93,7 +93,7 @@ mailchimp:
 work:
   enable: true
   work__title: Çalışma Alanları
-  work__description: Pek çok psikiyatrik sorunda tanı ve tedavi hizmeti sunmakla birlikte, öncelikli alanlarım <b>duygudurum bozuklukları</b>, <b>yaşlılık psikiyatrisi</b> ve <b>beyin uyarım tedavileridir.</b>
+  work__description: Genel psikiyatrik tanı ve tedavi hizmeti sunmakla birlikte, öncelikli alanlarım <b>duygudurum bozuklukları</b>, <b>yaşlılık psikiyatrisi</b> ve <b>beyin uyarım tedavileridir.</b>
 
 #-------------------------------
 # Egitim Settings
