@@ -11,7 +11,7 @@
 
         <ul class="logos__list list-reset row">
           {% for logo in site.data.settings.logo__items %}
-          <li class="logos__item col col-6">
+          <li class="logos__item col col-6 col-d-12">
             <a href="{{ logo.link | relative_url}}" class="logos__link" title="{{ logo.name }}" target="_blank" rel="noopener">
               <img src="{{ logo.image | relative_url }}" alt="{{ logo.name }}" class="logos__image">
               <span class="logos__name">{{ logo.name }}</span>
