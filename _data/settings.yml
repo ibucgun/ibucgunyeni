@@ -64,19 +64,19 @@ logos:
 logo__items:
   - name: Türkiye Psikiyatri Derneği
     link: "https://www.psikiyatri.org.tr/"
-    image: "/images/tpd.svg"
+    image: "/images/tpd.png"
 
   - name: Uluslararası Bipolar Bozukluklar Derneği (ISBD)
     link: "https://www.isbd.org/"
-    image: "/images/isbd.svg"
+    image: "/images/isbd.png"
 
   - name: Bipolar Bozukluklar Derneği
     link: "https://www.bipolarturkiye.org/"
-    image: "/images/bipolarturkiye.svg"
+    image: "/images/bipolarturkiye.png"
 
   - name: Academy of Brain Stimulation
     link: "https:/brainstimulation-academy.com/"
-    image: "/images/brainstimulationacademylogo.svg"
+    image: "/images/brainstimacademy.png"
 
 
 #-------------------------------
