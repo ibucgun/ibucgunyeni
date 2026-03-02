@@ -1,10 +1,8 @@
 {% if site.data.settings.egitim.enable == true %}
-<!-- begin egitimler -->
 <div class="container">
-  <section class="section works animate">
+  <section class="section section-education animate">
     <div class="row">
 
-      <!-- Başlık ve açıklama -->
       <div class="col col-12">
         <div class="section__info">
           <h2 class="section__title">{{ site.data.settings.egitim.egitim__title }}</h2>
@@ -14,26 +12,27 @@
         </div>
       </div>
 
-      <!-- Eğitim listesi -->
       <div class="col col-12">
-        <div class="row">
+        <div class="edu-accordion">
           {% assign sorted = site.egitim | sort: 'date' | reverse %}
           {% for egitim in sorted %}
-          <article class="work col col-6 col-d-12">
-            <div class="work__content">
-              <div class="work__info">
-                <h3 class="work__title">
-                {{ egitim.title }}
-                </h3>
+          <details class="edu-item">
+            <summary class="edu-header">
+              <div class="edu-header__content">
+                <h3 class="edu-title">{{ egitim.title }}</h3>
                 {% if egitim.kurum %}
-                <div class="work__category">{{ egitim.kurum }} • {% if egitim.sure %}{{ egitim.sure }}{% endif %} </div>
-                {% endif %}
-                {% if egitim.description %}
-                <p class="egitim__description">{{ egitim.description }}</p>
+                <div class="edu-meta">{{ egitim.kurum }} • {{ egitim.sure }}</div>
                 {% endif %}
               </div>
+              <div class="edu-icon"></div>
+            </summary>
+            
+            <div class="edu-content">
+              {% if egitim.description %}
+              <p class="egitim__description">{{ egitim.description }}</p>
+              {% endif %}
             </div>
-          </article>
+          </details>
           {% endfor %}
         </div>
       </div>
@@ -41,5 +40,4 @@
     </div>
   </section>
 </div>
-<!-- end egitimler -->
 {% endif %}

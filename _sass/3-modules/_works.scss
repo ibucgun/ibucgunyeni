@@ -161,3 +161,115 @@
     }
   }
 }
+
+
+/* Ana Sayfaya Özel Eğitim Düzenlemesi */
+
+.section-education {
+  .edu-accordion {
+    border: 1px solid var(--border-color);
+    border-radius: $global-radius;
+    background-color: var(--background-alt-color);
+    overflow: hidden;
+  }
+
+  details.edu-item {
+    border-bottom: 1px solid var(--border-color);
+    transition: background-color 0.3s ease;
+
+    &:last-child {
+      border-bottom: none;
+    }
+
+    &[open] {
+      background-color: #fff; // Açıldığında arka plan beyaz olsun
+      
+      .edu-icon::after {
+        transform: rotate(90deg);
+        opacity: 0;
+      }
+    }
+  }
+
+  summary.edu-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px;
+    cursor: pointer;
+    list-style: none;
+    outline: none;
+
+    &::-webkit-details-marker {
+      display: none; // Varsayılan oku kaldır
+    }
+
+    .edu-title {
+      font-size: 22px;
+      margin-bottom: 4px;
+      color: var(--heading-font-color);
+      line-height: 1.2;
+    }
+
+    .edu-meta {
+      font-size: 14px;
+      font-weight: 500;
+      color: var(--primary-color);
+      opacity: 0.8;
+    }
+  }
+
+  .edu-content {
+    padding: 0 24px 24px 24px;
+    
+    .egitim__description {
+      margin-top: 0;
+      font-size: 16px;
+      color: var(--text-alt-color);
+      line-height: 1.6;
+      /* Açıklamada kısıtlama (clamp) yapmıyoruz çünkü akordeon açıldığında tam okunmalı */
+    }
+  }
+
+  /* Artı / Eksi İkonu */
+  .edu-icon {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+
+    &::before, &::after {
+      content: '';
+      position: absolute;
+      background-color: var(--primary-color);
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      transition: all 0.3s ease;
+    }
+
+    &::before {
+      width: 14px;
+      height: 2px; // Yatay çizgi
+    }
+
+    &::after {
+      width: 2px;
+      height: 14px; // Dikey çizgi
+    }
+  }
+
+  /* Mobil Düzenleme */
+  @media (max-width: $tablet) {
+    summary.edu-header {
+      padding: 18px;
+      
+      .edu-title {
+        font-size: 18px;
+      }
+    }
+    .edu-content {
+      padding: 0 18px 18px 18px;
+    }
+  }
+}
