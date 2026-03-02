@@ -121,7 +121,7 @@
     overflow: hidden;
 
     img {
-      filter: grayscale(100%); // Mesleki üyeliklerle aynı dil
+      filter: grayscale(50%); // Mesleki üyeliklerle aynı dil
       transition: filter 0.3s ease;
       position: relative; // Absolute yerine flex yapıda relative daha sağlıklı
       width: 100%;
