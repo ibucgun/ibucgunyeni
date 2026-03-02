@@ -182,12 +182,8 @@
     }
 
     &[open] {
-      background-color: #fff; // Açıldığında arka plan beyaz olsun
-      
-      .edu-icon::after {
-        transform: rotate(90deg);
-        opacity: 0;
-      }
+      background-color: #fff;
+      .edu-icon::after { transform: rotate(90deg); opacity: 0; }
     }
   }
 
@@ -195,47 +191,45 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 24px;
+    padding: 28px; // Padding'i biraz artırdık, büyük fontlar nefes alsın
     cursor: pointer;
     list-style: none;
     outline: none;
 
-    &::-webkit-details-marker {
-      display: none; // Varsayılan oku kaldır
-    }
+    &::-webkit-details-marker { display: none; }
 
     .edu-title {
-      font-size: 22px;
-      margin-bottom: 4px;
+      font-size: 26px; // 22px -> 26px yapıldı
+      font-weight: 700;
+      margin-bottom: 6px;
       color: var(--heading-font-color);
-      line-height: 1.2;
+      line-height: 1.25;
+      letter-spacing: -0.01em;
     }
 
     .edu-meta {
-      font-size: 14px;
+      font-size: 16px; // 14px -> 16px yapıldı
       font-weight: 500;
       color: var(--primary-color);
-      opacity: 0.8;
+      opacity: 0.85;
     }
   }
 
   .edu-content {
-    padding: 0 24px 24px 24px;
+    padding: 0 28px 28px 28px;
     
     .egitim__description {
-      margin-top: 0;
-      font-size: 16px;
+      margin-top: 5px;
+      font-size: 18px; // 16px -> 18px yapıldı (Okuma konforu için ideal boyut)
       color: var(--text-alt-color);
-      line-height: 1.6;
-      /* Açıklamada kısıtlama (clamp) yapmıyoruz çünkü akordeon açıldığında tam okunmalı */
+      line-height: 1.7; // Satır arası boşluğu ferahlatıldı
     }
   }
 
-  /* Artı / Eksi İkonu */
   .edu-icon {
     position: relative;
-    width: 20px;
-    height: 20px;
+    width: 24px; // İkonu da fontla orantılı büyüttük
+    height: 24px;
     flex-shrink: 0;
 
     &::before, &::after {
@@ -248,28 +242,27 @@
       transition: all 0.3s ease;
     }
 
-    &::before {
-      width: 14px;
-      height: 2px; // Yatay çizgi
-    }
-
-    &::after {
-      width: 2px;
-      height: 14px; // Dikey çizgi
-    }
+    &::before { width: 16px; height: 2px; }
+    &::after { width: 2px; height: 16px; }
   }
 
   /* Mobil Düzenleme */
   @media (max-width: $tablet) {
     summary.edu-header {
-      padding: 18px;
+      padding: 20px;
       
       .edu-title {
-        font-size: 18px;
+        font-size: 20px; // Mobilde de bir tık büyütüldü
+      }
+      .edu-meta {
+        font-size: 14px;
       }
     }
     .edu-content {
-      padding: 0 18px 18px 18px;
+      padding: 0 20px 20px 20px;
+      .egitim__description {
+        font-size: 16px; // Mobilde 16px yeterlidir
+      }
     }
   }
 }
