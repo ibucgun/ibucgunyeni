@@ -6,11 +6,11 @@
 
 /* row/col sistemi dizilimi yönetecek */
 .logos__list {
-  margin: 0;        // row negatif margin/padding yapıyorsa karışmasın
+  margin: 0; 
 }
 
 .logos__item {
-  margin-bottom: $base-spacing-unit;  // satırlar arası nefes
+  margin-bottom: $base-spacing-unit; 
 }
 
 /* Chip/rozet görünümü */
@@ -18,18 +18,27 @@
   display: inline-flex;
   align-items: center;
   gap: 10px;
-  width: 100%;                         // kolonu doldursun → eşit görünür
+  width: 100%; 
 
   padding: 10px 12px;
   border: 1px solid var(--border-color);
   border-radius: $global-radius;
   text-decoration: none;
-  transition: all .2s ease;
+  transition: all .3s ease; // Geçiş süresini biraz uzattım, daha yumuşak olur
 
   &:hover {
-    transform: translateY(-1px);
+    transform: translateY(-2px); // Hafif yukarı kalkma etkisi
     border-color: var(--border-alt-color);
-    opacity: 0.95;
+    
+    // Hover durumunda görseli renklendir
+    .logos__image {
+      filter: grayscale(0%);
+      opacity: 1;
+    }
+    
+    .logos__name {
+      opacity: 1;
+    }
   }
 }
 
@@ -37,19 +46,16 @@
   height: 48px;
   width: 48px;
   flex: 0 0 auto;
-  -webkit-filter: grayscale(100%); /* Safari ve eski tarayıcılar için */
-  filter: grayscale(100%); /* Standart özellik */
-  transition: filter 0.3s ease; /* Geçişin yumuşak olması için */
+  
+  // Varsayılan hali: Gri ve biraz şeffaf
+  filter: grayscale(100%);
+  opacity: 0.7; 
+  transition: all .3s ease;
 
   @media (max-width: $mobile) {
     height: 24px;
-	width: 24px;
+    width: 24px;
   }
-}
-
-.logos__image:hover {
-  -webkit-filter: grayscale(0%);
-  filter: grayscale(0%);
 }
 
 .logos__name {
@@ -59,19 +65,22 @@
   letter-spacing: -0.01em;
   color: var(--text-color);
   opacity: 0.85;
+  transition: opacity .3s ease;
   
   @media (max-width: $mobile) {
-	font-size: 12px;
+    font-size: 12px;
   }
-
-  /* uzun isimlerde taşmayı kontrol etmek istersen aç:
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  */
 }
 
+// Dark Mode için küçük bir iyileştirme
 .dark-mode {
   .logos__image {
+    // Koyu temada logoların siyah kısımları kayboluyorsa 
+    // parlaklığı biraz artırabilirsin:
+    // filter: grayscale(100%) brightness(1.2);
+  }
+  
+  .logos__link:hover .logos__image {
+    filter: grayscale(0%) brightness(1);
   }
 }
