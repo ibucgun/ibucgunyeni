@@ -1,0 +1,203 @@
+#-------------------------------
+# Site Settings
+title: Uzm. Dr. İsmail BUÇGÜN
+logo: # You can add own logo. For example '/images/logo.png'.
+description: Uzm. Dr. İsmail Buçgün, Avrupa yeterlilik belgeli bir uzman olarak Adana psikiyatri kliniğinde modern, kişiye özel ve kanıta dayalı tedaviler sunar.
+color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+
+#-------------------------------
+# Navigation Settings
+menu__settings:
+  menu__items:
+    - title: 'Anasayfa'
+      url: '/'
+    - title: 'Hakkımda'
+      url: '/hakkimda/'
+    - title: 'Çalışma Alanları'
+      url: '/calisma-alani/'
+    - title: 'Blog'
+      url: '/blog/'
+    - title: 'Klinik'
+      submenu:
+      - title: 'Sıkça Sorulanlar'
+        url: '/sss/'
+      - title: 'Randevu'
+        url: '/randevu/'
+      - title: 'İletişim' 
+        url: '/iletisim/'
+        
+#-------------------------------
+# Author Settings
+author:
+  author__name: Uzm. Dr. İsmail BUÇGÜN
+  author__bio: Adana'daki psikiyatri kliniğimizde duygudurum bozuklukları ve beyin uyarım tedavileri başta olmak üzere psikiyatri ve klinik psikolojinin pek çok alanında modern, kanıta dayalı, güncel tedavi yaklaşımlarını kullanarak hizmet veriyoruz.
+  author__avatar: '/images/01.jpg'
+
+social:
+- {icon: "ion-logo-facebook", link: "https://facebook.com/dr.ismailbucgun"}
+- {icon: "ion-logo-instagram", link: "https://instagram.com/dr.ismailbucgun"}
+- {icon: "ion-logo-linkedin", link: "https://linkedin.com/in/ismailbucgun"}
+- {icon: "ion-logo-youtube", link: "https://youtube.com"}
+
+
+# Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  enable: true
+  hero__title: Uzm. Dr. İsmail BUÇGÜN
+  hero__alttitle: Psikiyatri Uzmanı • Fellow of The European Board of Psychiatry
+  hero__description: Adana’daki psikiyatri kliniğimde, Avrupa yeterlilik belgeli psikiyatri uzmanı olarak <b>erişkin ve yaşlı</b> bireylere <b>kanıta dayalı, kişiye özel</b> tanı ve tedavi hizmeti sunuyorum.
+  hero__image: "/images/01-1.jpg"
+
+
+#-------------------------------
+# Logos Settings
+logos:
+  enable: true
+  logos__title: Mesleki Üyeliklerim
+
+logo__items:
+  - name: Türkiye Psikiyatri Derneği
+    link: "https://www.psikiyatri.org.tr/"
+    image: "/images/tpd.png"
+
+  - name: Uluslararası Bipolar Bozukluklar Derneği (ISBD)
+    link: "https://www.isbd.org/"
+    image: "/images/isbd.png"
+
+  - name: Bipolar Bozukluklar Derneği
+    link: "https://www.bipolarturkiye.org/"
+    image: "/images/bipolarturkiye.png"
+
+  - name: Academy of Brain Stimulation
+    link: "https://www.brainstimulation-academy.com/"
+    image: "/images/brainstimacademy.png"
+
+
+#-------------------------------
+# Newsletter
+mailchimp:
+  enable: false
+  mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+  mailchimp__input__text: Your email address...
+  mailchimp__button__text: Subscribe
+
+
+#-------------------------------
+# Work Settings
+work:
+  enable: true
+  work__title: Çalışma Alanları
+  work__description: Genel psikiyatrik tanı ve tedavi hizmeti sunmakla birlikte, öncelikli alanlarım <b>duygudurum bozuklukları</b>, <b>yaşlılık psikiyatrisi</b> ve <b>beyin uyarım tedavileridir.</b>
+
+#-------------------------------
+# Egitim Settings
+egitim:
+  enable: true
+  egitim__title: Aldığım Eğitimler
+  egitim__description: Mesleki yetkinliğimi artırmak ve çalışma alanlarımla ilgili derinlemesine bilgi edinmek için <b>yapılandırılmış, nitelikli eğitimlere</b> katıldım; halen bazı programlara devam ediyorum.
+
+
+#-------------------------------
+# Testimonials Section
+testimonials:
+  enable: false
+
+testimonial__title: Clients
+testimonial__description:
+
+testimonial__items:
+  - name: "Hanna Septimus"
+    image: "/images/client-1.jpg"
+    designation: "Product Designer"
+    link: "https://twitter.com/"
+    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+
+  - name: "Carla Rosser"
+    image: "/images/client-2.jpg"
+    designation: "Statistician"
+    link: "https://facebook.com/"
+    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+
+  - name: "Maria Curtis"
+    image: "/images/client-3.jpg"
+    designation: "Team Lead"
+    link: "https://twitter.com/"
+    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+
+  - name: "Carter Bergson"
+    image: "/images/client-4.jpg"
+    designation: "CEO, Founder"
+    link: "https://facebook.com/"
+    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+
+  - name: "Jordyn Franci"
+    image: "/images/client-5.jpg"
+    designation: "Personal Trainer"
+    link: "https://twitter.com/"
+    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+
+  - name: "Mira Carder"
+    image: "/images/client-6.jpg"
+    designation: "Data Scientist"
+    link: "https://facebook.com/"
+    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+
+  - name: "Madelyn Herwitz"
+    image: "/images/client-7.jpg"
+    designation: "Frontend Engineer"
+    link: "https://twitter.com/"
+    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+
+  - name: "Anika Schleifer"
+    image: "/images/client-8.jpg"
+    designation: "Fitness Director"
+    link: "https://facebook.com/"
+    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+
+  - name: "Wilson Dorwart"
+    image: "/images/client-9.jpg"
+    designation: "Financial Manager"
+    link: "https://twitter.com/"
+    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+
+
+#-------------------------------
+# Blog Section
+blog:
+  enable: true
+
+blog__settings:
+  blog__title: Blog
+  blog__description:
+
+
+#-------------------------------
+# Footer Settings
+footer__background__image: "/images/bg.jpg"
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: xldjdpkk # Add your form_id
+  description: Adana'daki psikiyatri kliniğimizin iletişim bilgileri ve konumu hakkında bu sayfadaki ayrıntılı bilgileri kullanabilir, ihtiyaç duyduğunuzda aşağıdaki iletişim formunu kullanabilirsiniz.
+
+# NOTE
+# Akio theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus:
+  enable: true
+  disqus__identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: xxx
