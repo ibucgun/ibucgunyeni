@@ -1,12 +1,10 @@
 ---
 layout: work
-title: Hakkımda
+title: Uzm. Dr. İsmail BUÇGÜN
 description: Adana psikiyatri kliniğimizden psikiyatri ve klinik psikoloji alanında destek almak için klinik iletişim numarasını arayabilir ya da Whatsapp mesajı gönderebilirsiniz.
 permalink: /hakkimda/
-category: Beyin Uyarım Tedavisi
+category: Psikiyatri Uzmanı • Fellow of The European Board of Psychiatry 
 date: 2025-10-06 08:00:00 +0300ß
-role: Uzm. Dr. İsmail BUÇGÜN
-client: 
 image: '/images/hizmet-tms.jpg'
 ---
 ## Randevu Hakkında Genel Bilgiler
