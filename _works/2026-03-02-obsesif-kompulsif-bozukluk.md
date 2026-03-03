@@ -1,8 +1,8 @@
 ---
-title: Erişkin Dikkat Eksikliği ve Hiperaktivite Bozukluğu (DEHB)
+title: Obsesif Kompulsif Bozukluk (OKB)
 description: Psikiyatri uzmanının kişinin ruhsal durumunu anlamak için yaptığı kapsamlı inceleme sürecidir.
 category: Tanısal Değerlendirme
-date: 2026-03-03 08:00:00 +0300
+date: 2026-03-02 08:00:00 +0300
 role: Uzm. Dr. İsmail BUÇGÜN
 image: '/images/hizmet-psikiyatrik-degerlendirme.jpg'
 

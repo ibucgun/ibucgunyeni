@@ -35,9 +35,9 @@ author:
   author__avatar: '/images/01.jpg'
 
 social:
-- {icon: "ion-logo-facebook", link: "https://facebook.com/moodstim"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com/moodstim"}
-- {icon: "ion-logo-linkedin", link: "https://linkedin.com/company/moodstim"}
+- {icon: "ion-logo-facebook", link: "https://facebook.com/dr.ismailbucgun"}
+- {icon: "ion-logo-instagram", link: "https://instagram.com/dr.ismailbucgun"}
+- {icon: "ion-logo-linkedin", link: "https://linkedin.com/in/ismailbucgun"}
 - {icon: "ion-logo-youtube", link: "https://youtube.com"}
 
 
@@ -75,7 +75,7 @@ logo__items:
     image: "/images/bipolarturkiye.png"
 
   - name: Academy of Brain Stimulation
-    link: "https:/www.brainstimulation-academy.com/"
+    link: "https://www.brainstimulation-academy.com/"
     image: "/images/brainstimacademy.png"
 
 
