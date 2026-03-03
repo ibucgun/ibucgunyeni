@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: hakkimda
 title: Uzm. Dr. İsmail BUÇGÜN
 description: Adana psikiyatri kliniğimizden psikiyatri ve klinik psikoloji alanında destek almak için klinik iletişim numarasını arayabilir ya da Whatsapp mesajı gönderebilirsiniz.
 permalink: /hakkimda/
