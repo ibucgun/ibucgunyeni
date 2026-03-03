@@ -1,6 +1,6 @@
 ---
 title: Tedaviye Dirençli Depresyon
-description: <b>Tedaviye dirençli OKB ve depresyon tedavisinde etkili ve FDA onaylı</b>, bağımlılık ve başka endikasyonlarda da kullanımı giderek artan, modern, bir beyin uyarım ve beyin aktivitesi düzenleme (nöromodülasyon) tedavisidir.
+description: En az iki farklı antidepresan tedavisine uygun doz ve sürede rağmen belirtilerin tam olarak iyileşmediği durumları ifade eden klinik bir tablodur.
 category: Duygudurum Bozuklukları
 date: 2025-10-06 08:00:00 +0300ß
 role: Uzm. Dr. İsmail BUÇGÜN
