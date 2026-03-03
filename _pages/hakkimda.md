@@ -1,6 +1,6 @@
 ---
 layout: hakkimda
-title: Uzm. Dr. İsmail BUÇGÜN
+title: Hakkımda
 description: Adana psikiyatri kliniğimizden psikiyatri ve klinik psikoloji alanında destek almak için klinik iletişim numarasını arayabilir ya da Whatsapp mesajı gönderebilirsiniz.
 permalink: /hakkimda/
 category: Psikiyatri Uzmanı • Fellow of The European Board of Psychiatry 
