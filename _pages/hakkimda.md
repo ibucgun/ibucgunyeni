@@ -5,20 +5,82 @@ description: Adana psikiyatri kliniğimizden psikiyatri ve klinik psikoloji alan
 permalink: /hakkimda/
 category: Psikiyatri Uzmanı • Fellow of The European Board of Psychiatry 
 date: 2025-10-06 08:00:00 +0300ß
-image: '/images/hizmet-tms.jpg'
+image: '/images/01-1.jpg'
 ---
-## Randevu Hakkında Genel Bilgiler
-Mevcut hasta yoğunluğu ve yakın takip/sık görüşme gerekebilen hasta sayımızın çokluğu nedeniyle <b>kliniğimizde online randevu sistemi kullanılmamaktadır.</b> Yalnızca telefonla arayarak ya da Whatsapp mesajı göndererek bilgi ve randevu alabilirsiniz.
+## Akademik Eğitim
+1. **Çanakkale Onsekiz Mart Üniversitesi Tıp Fakültesi**<br>
+Tıpta Uzmanlık Eğitimi (Psikiyatri) • 2016 - 2020
+2. **Mersin Üniversitesi Tıp Fakültesi**<br>
+Tıp Doktoru • 2009 - 2015
+3. **Mersin Fen Lisesi**<br>
+Lise • 2009
 
-Kliniğimizde <b>18 yaş altı hasta kabul edilmemekte yalnızca yetişkinlere hizmet verilmektedir.</b>  
+## Aldığı Eğitimler
+1. **Duygudurum Bozuklukları Uzmanlık Sonrası Eğitim Programı (DUSEP)**<br>
+**Bipolar Bozukluklar Derneği • Mayıs 2021 — Haziran 2023**<br>
+Bipolar Bozukluklar Derneği tarafından yürütülen, ağırlıklı olarak duygudurum bozuklukları alanında çalışacak genç psikiyatri uzmanlarını yetiştirme amacıyla düzenlenen, **Türkiye genelinde çeşitli bölgelerden seçilen 30 genç uzmandan birisi olarak** Duygudurum Bozuklukları Uzmanlık Sonrası Eğitim Programı'nın 2 yıl süren teorik eğitimlerini, hasta takibi ve süpervizyon aşamalarını tamamladı.
 
-Psikiyatrik muayene için <b>ilk kez gelecek olan hastalar için yalnızca yüz yüze</b> randevu oluşturulmaktadır. İlk değerlendirme görüşmesi sonrasında takipte gerekirse, hastanın durumu ve tanısı uygunsa online görüşme ile takip ve tedavi sürdürülebilir.
+2. **International Diploma in Older Adults’ Mental Health**
+**Royal College of Psychiatrists • Eylül 2025 — Halen**<br>
+İngiltere Kraliyet Psikiyatri Koleji tarafından, dünya genelinden farklı ülkelerden psikiyatristlerin kabul edildiği; yaşlılık psikiyatrisi alanında bilgi ve beceri düzeyini arttırmaya yönelik düzenlenen, 1 yıl sürecek, kanıta dayalı yaklaşımların anlatıldığı yapılandırılmış diploma programına bu yıl kabul edilen 15 kişiden birisi olarak halen bu eğitime devam etmektedir.
 
-## Online Görüşme
-Takipte <b>tanısı ve durumu online takip için uygun olan</b>, şehir dışından gelen ya da şehir dışına çıkan hastalarda görüşmeler online sürdürülebilir. Online görüşmeler belirli konularda özen gösterildiğinde sorunsuz bir şekilde yüzyüze görüşmeler gibi ilerlemekte, etki açısından bir fark bulunmamaktadır. Görüşme kalitesini arttırmak için bazı önerileri aşağıda bulabilirsiniz.
+3. **Master Psychopharmacology Program**
+**Neuroscience Education Institute • Ocak 2025 — Halen**<br>
+Neuroscience Education Institute tarafından yürütülen, psikofarmakoloji (psikiyatrik ilaç tedavileri) ve nörobilim konusunda bilgi ve beceri düzeyini arttırmaya yönelik eğitim programına halen devam etmektedir.
 
-1. Lütfen yüzyüze görüşmeye gelir gibi görüşme vaktinde hazır bulunun.
-2. Görüşme yapılacak odanın mahremiyetinin sağlayarak konuşmaların bulunduğunuz yerdeki başka kişilerce duyulmasının engellenmesini sağlayın, mümkünse odada yalnız olun.
-3. Görüşme sırasında su dışında bir şey yemek ya da içmek dikkatinizi dağıtacağından lütfen görüşme sırasında bir şeyler yiyip içmeyin.
-4. Görüşmeyi cep telefonundan yapacaksanız telefonunuzu sabitlemeniz dikkatinizin dağılmasını önleyecektir.
-5. Görüşme yaparken kulaklık kullanmak teknik sorunları ve duyamama gibi sorunları azaltmakta, mahremiyeti sağlamaya yardımcı olmaktadır.
+4. **Kişilerarası İlişkiler Psikoterapisi (KİPT)**
+**Kişilerarası İlişkiler Psikoterapisi Derneği  • Mayıs 2025 — Haziran 2025**<br>
+Kişilerarası İlişkiler Psikoterapisi Derneği tarafından yürütülen 64 saatlik temel teorik ve pratik modüler KİPT eğitimini tamamladı. Halen bu psikoterapi yöntemi için yaklaşık 2 yıl sürecek süpervizyon eğitimine devam etmektedir.
+
+
+5. **Destekleyici Psikoterapi**<br>
+**Türkiye Psikiyatri Derneği • 2017 — 2020**<br>
+Türkiye Psikiyatri Derneği İstanbul şubesi tarafından yürütülen 110 saat kuramsal eğitim ve 80 saat üzeri süpervizyon ve 1 yıldan uzun süreli hasta takibi aşamalarındandan oluşan, yaklaşık 3.5 yıl süren Destekleyici Psikoterapi eğitimini tamamladım ve **Türkiye Psikiyatri Derneği Destekleyici Psikoterapi Uygulayıcısı sertifikası** aldı.
+
+6. **Psikiyatride Nöromodülasyon Kursu**<br>
+**Türkiye Psikiyatri Derneği • Ekim 2021**<br>
+Türkiye Psikiyatri Derneği'nin düzenlediği 57. Ulusal Psikiyatri Kongresi'nde transkraniyal manyetik stimülasyon (TMS) ve transkraniyal doğru akım uyarımı(tDCS) yöntemlerinin kullanımının anlatıldığı psikiyatride nöromodülasyon kursuna katıldı.
+
+7. **Bilişsel Davranışçı Terapi Temel Eğitimi**<br>
+**Bilişsel Davranışçı Psikoterapiler Derneği • 2022**<br>
+Bilişsel Davranışcı Psikoterapiler Derneği tarafından yürütülen Bilişsel Davranışçı Psikoterapi Temel Eğimi’ni tamamladı.
+
+8. **Cinsellik ve Cinsel İşlev Bozuklukları Temel Eğitimi**<br>
+**CETAD • 2020 — 2021**<br>
+Cinsel Eğitim Tedavi ve Araştırma Derneği(CETAD) tarafından yürütülen Cinsellik ve Cinsel İşlev Bozuklukları Temel Eğitimi’ni tamamladı.
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/dusep-sertifika.jpg" loading="lazy" alt="Uzm. Dr. İsmail BUÇGÜN Duygudurum Bozuklukları Uzmanlık Sonrası Eğitim Programı Sertifikası">
+    <img src="/images/destekleyici-sertifika.jpg" loading="lazy" alt="Uzm. Dr. İsmail BUÇGÜN Destekleyici Psikoterapi Uygulayıcı Sertifikası">
+  </div>
+</div>
+
+<div class="gallery-box">
+  <div class="gallery">
+	<img src="/images/kurs-sertifika.jpg" loading="lazy" alt="Uzm. Dr. İsmail BUÇGÜN Cinsellik ve Cinsel İşlev Bozuklukları Temel Eğitim Sertifikası">
+    <img src="/images/cetad-sertifika.jpg" loading="lazy" alt="Uzm. Dr. İsmail BUÇGÜN Bilişsel Davranışçı Psikoterapi Temel Eğitim Sertifikası">
+  </div>
+</div>
+
+## Çalıştığı Kurumlar
+1. **Serbest Hekim/Klinik**<br>
+**Uzman Doktor • Aralık 2022 — Halen**<br>
+Aralık 2022'de kamu görevinden ayrılarak serbest hekim olarak Adana'daki kliniğimde çalışmaya, hasta kabul etmeye başladım. Halen hastalarıma burada hizmet vermekteyim.
+
+2. **Adana Dr. Ekrem Tok Ruh Sağlığı ve Hastalıkları Hastanesi**<br>
+**Uzman Doktor • Kasım 2020 — Aralık 2022**<br>
+2 yıl süreyle bu kurumda 1. kadın servisi doktoru ve ek olarak 1 yıl adli psikiyatri sağlık kurulu başkanı olarak çalıştım. Burada çalıştığım 2 yıllık dönemde özellikle kronik psikiyatrik hastalıklar (şizofreni gibi psikotik bozukluklar, bipolar duygudurum bozukluğu, yineleyici depresif bozukluk, kronik depresif bozukluk vb.) başta olmak üzere tüm psikiyatrik hastalıkların yatarak ve ayaktan tedavileri konusunda deneyim kazanıp, yüzlerce hastanın tedavisini sürdürdüm ve ayaktan takip ettim.
+
+3. **Çanakkale Onsekiz Mart Üniversitesi Sağlık Uygulama ve Araştırma Hastanesi**<br>
+**Araştırma Görevlisi Doktor • Temmmuz 2016 — Kasım 2020**<br>
+
+## Mesleki Üyelikleri
+Türkiye Psikiyatri Derneği, Bipolar Bozukluklar Derneği, Uluslararası Bipolar Bozukluklar Derneği (ISBD), Beyin Uyarımı Akademisi (Academy of Brain Stimulation) ve Adana Tabip Odası üyesidir.
+
+<div class="gallery-box">
+  <div class="gallery">
+	<img src="/images/febp-avrupa-board-sertifikasi.png" loading="lazy" alt="Uzm. Dr. İsmail BUÇGÜN Avrupa Board Sertifikası">
+    <img src="/images/brain-stimulation-academy-sertifika.png" loading="lazy" alt="Uzm. Dr. İsmail BUÇGÜN Beyin Uyarım Akademisi Sertifikası">
+  </div>
+</div>
