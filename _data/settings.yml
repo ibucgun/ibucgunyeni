@@ -92,7 +92,7 @@ mailchimp:
 # Work Settings
 work:
   enable: true
-  work__title: Çalışma Alanları
+  work__title: Çalışma Alanlarım
   work__description: Genel psikiyatrik tanı ve tedavi hizmeti sunmakla birlikte, öncelikli alanlarım <b>duygudurum bozuklukları</b>, <b>yaşlılık psikiyatrisi</b> ve <b>beyin uyarım tedavileridir.</b>
 
 #-------------------------------
