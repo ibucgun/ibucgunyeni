@@ -2,7 +2,7 @@
 title: Yaşlılık Psikiyatrisi
 description: Yaşlılık döneminde ortaya çıkan ruhsal ve bilişsel sorunların tanı, tedavi ve takip süreçlerine odaklanan psikiyatri alanıdır.
 category: Tanısal Değerlendirme
-date: 2026-03-03 08:00:00 +0300
+date: 2026-03-06 08:00:00 +0300
 role: Uzm. Dr. İsmail BUÇGÜN
 image: '/images/hizmet-psikiyatrik-degerlendirme.jpg'
 

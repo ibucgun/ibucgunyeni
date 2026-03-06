@@ -2,7 +2,7 @@
 title: Depresyon
 description: <b>Tedaviye dirençli OKB ve depresyon tedavisinde etkili ve FDA onaylı</b>, bağımlılık ve başka endikasyonlarda da kullanımı giderek artan, modern, bir beyin uyarım ve beyin aktivitesi düzenleme (nöromodülasyon) tedavisidir.
 category: Duygudurum Bozuklukları
-date: 2025-10-06 08:00:00 +0300ß
+date: 2026-03-06 08:00:00 +0300
 role: Uzm. Dr. İsmail BUÇGÜN
 client: 
 image: '/images/hizmet-tms.jpg'
