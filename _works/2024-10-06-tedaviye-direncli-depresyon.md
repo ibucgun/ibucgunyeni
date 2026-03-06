@@ -2,7 +2,7 @@
 title: Tedaviye Dirençli Depresyon
 description: En az iki farklı antidepresan tedavisine uygun doz ve sürede rağmen belirtilerin tam olarak iyileşmediği durumları ifade eden klinik bir tablodur.
 category: Duygudurum Bozuklukları
-date: 2026-03-06 08:00:00 +0300
+date: 2026-03-06 08:03:00 +0300
 role: Uzm. Dr. İsmail BUÇGÜN
 client: 
 image: '/images/hizmet-tms.jpg'
