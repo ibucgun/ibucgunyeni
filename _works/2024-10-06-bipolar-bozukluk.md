@@ -1,11 +1,9 @@
 ---
 title: Bipolar Bozukluk
-description: <b>Tedaviye dirençli OKB ve depresyon tedavisinde etkili ve FDA onaylı</b>, bağımlılık ve başka endikasyonlarda da kullanımı giderek artan, modern, bir beyin uyarım ve beyin aktivitesi düzenleme (nöromodülasyon) tedavisidir.
+description: Bipolar bozukluk, dünya genelinde milyonlarca insanı etkileyen, duygudurumdaki keskin değişimlerle seyreden ve uzun süreli takip ve tedavi süreci gerektiren oldukça yaygın bir kronik psikiyatrik hastalıktır. Adana’daki psikiyatri kliniğimde, bu karmaşık süreçle mücadele eden bireylere güncel bilimsel veriler ışığında, kanıta dayalı tanı ve tedavi hizmetleri sunuyorum. Hastalarımın hem atak dönemlerini kontrol altına almak hem de yaşam boyu dengeli bir seyir sürdürmelerini sağlamak için profesyonel ve kapsayıcı bir klinik yaklaşım yürütüyoruz.
 category: Duygudurum Bozuklukları
 date: 2025-10-06 08:00:00 +0300ß
 role: Uzm. Dr. İsmail BUÇGÜN
 client: 
 image: '/images/hizmet-tms.jpg'
 ---
-
-TMS (Transkraniyal Manyetik Stimulasyon) özel bir cihaz tarafından, yoğunlaştırılmış manyetik atımların ardışık, odaklanmış bir şekilde, özel beyin bölgelerine gönderilmesiyle beyin hücrelerinin uyarılmasını ve beyin işlevlerinin düzenlenmesini (aktivitesinin artmasını ya da azalmasını) sağlayan bilimsel olarak etkisi kanıtlanmış, bazı hastalıkların tedavisinde kullanım ruhsatı almış, etkili ve modern bir tedavi yöntemidir.

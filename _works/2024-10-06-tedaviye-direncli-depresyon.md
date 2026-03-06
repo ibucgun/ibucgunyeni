@@ -1,11 +1,9 @@
 ---
 title: Tedaviye Dirençli Depresyon
-description: En az iki farklı antidepresan tedavisine uygun doz ve sürede rağmen belirtilerin tam olarak iyileşmediği durumları ifade eden klinik bir tablodur.
+description: Standart antidepresan tedavilerine rağmen tam iyileşme sağlanamayan tedaviye dirençli depresyon, klinik pratikte her üç depresyon hastasından birinde karşılaştığımız ve kişinin yaşam kalitesini ciddi şekilde kısıtlayan zorlayıcı bir klinik tablodur. Adana’daki psikiyatri kliniğimde, bu dirençli süreçle mücadele eden bireylere yönelik, geleneksel yöntemlerin ötesine geçen modern beyin uyarım tedavileri ve yeni nesil farmakolojik protokoller ile kapsamlı bir tedavi hizmeti sunuyorum.
 category: Duygudurum Bozuklukları
 date: 2025-10-06 08:00:00 +0300ß
 role: Uzm. Dr. İsmail BUÇGÜN
 client: 
 image: '/images/hizmet-tms.jpg'
 ---
-
-TMS (Transkraniyal Manyetik Stimulasyon) özel bir cihaz tarafından, yoğunlaştırılmış manyetik atımların ardışık, odaklanmış bir şekilde, özel beyin bölgelerine gönderilmesiyle beyin hücrelerinin uyarılmasını ve beyin işlevlerinin düzenlenmesini (aktivitesinin artmasını ya da azalmasını) sağlayan bilimsel olarak etkisi kanıtlanmış, bazı hastalıkların tedavisinde kullanım ruhsatı almış, etkili ve modern bir tedavi yöntemidir.

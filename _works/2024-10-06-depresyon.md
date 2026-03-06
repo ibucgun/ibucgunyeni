@@ -1,11 +1,9 @@
 ---
 title: Depresyon
-description: <b>Tedaviye dirençli OKB ve depresyon tedavisinde etkili ve FDA onaylı</b>, bağımlılık ve başka endikasyonlarda da kullanımı giderek artan, modern, bir beyin uyarım ve beyin aktivitesi düzenleme (nöromodülasyon) tedavisidir.
+description: Depresyon, günümüzde en sık karşılaşılan psikiyatrik sorunlarından birisi olup, toplumun her kesimini derinden etkileyen ciddi bir klinik tablodur. Adana’daki psikiyatri kliniğimde, bu yaygın sorunun getirdiği yükle başa çıkmaya çalışan bireylere modern tıbbın sunduğu en güncel tanı ve tedavi hizmetlerini, bilimsel kanıt temelli profesyonel bir çerçevede sunuyorum. Yaşam kalitesini önemli ölçüde kısıtlayan bu süreçte, hastalarımın yeniden sağlıklı duygudurumuna kavuşmaları için kapsamlı bir tedavi planı yürütüyoruz.
 category: Duygudurum Bozuklukları
 date: 2025-10-06 08:00:00 +0300ß
 role: Uzm. Dr. İsmail BUÇGÜN
 client: 
 image: '/images/hizmet-tms.jpg'
 ---
-
-TMS (Transkraniyal Manyetik Stimulasyon) özel bir cihaz tarafından, yoğunlaştırılmış manyetik atımların ardışık, odaklanmış bir şekilde, özel beyin bölgelerine gönderilmesiyle beyin hücrelerinin uyarılmasını ve beyin işlevlerinin düzenlenmesini (aktivitesinin artmasını ya da azalmasını) sağlayan bilimsel olarak etkisi kanıtlanmış, bazı hastalıkların tedavisinde kullanım ruhsatı almış, etkili ve modern bir tedavi yöntemidir.

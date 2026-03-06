@@ -1,6 +1,6 @@
 ---
 title: Yaşlılık Psikiyatrisi
-description: Yaşlılık döneminde ortaya çıkan ruhsal ve bilişsel sorunların tanı, tedavi ve takip süreçlerine odaklanan psikiyatri alanıdır.
+description: Yaşlılık psikiyatrisi (Geriatrik Psikiyatri), hızla yaşlanan dünya nüfusunda her geçen gün daha fazla önem kazanan ve yaşlılık dönemine özgü ruhsal-zihinsel değişimlerin profesyonelce yönetilmesini gerektiren oldukça spesifik bir uzmanlık alanıdır.
 category: Tanısal Değerlendirme
 date: 2026-03-03 08:00:00 +0300
 role: Uzm. Dr. İsmail BUÇGÜN
